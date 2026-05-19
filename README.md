@@ -41,7 +41,7 @@
 
 ### Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,linux,apple,bash,vim,docker,nodejs,postgresql&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,linux,apple,bash,vim,docker,nodejs,postgresql,arduino&theme=dark" alt="Tools" />
 
 </div>
 
@@ -99,7 +99,7 @@
 
 <div align="center">
 
-### ✦ &nbsp;Connect
+### Contact
 
 <br>
 
