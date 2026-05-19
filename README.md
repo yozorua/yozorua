@@ -85,7 +85,7 @@
 
 ---
 
-## ✦ &nbsp;Contribution Activity
+## ✦ &nbsp;Recent Activity
 
 <br>
 
