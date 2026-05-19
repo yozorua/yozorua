@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&weight=400&size=21&duration=2800&pause=1000&color=39C5BB&center=true&vCenter=true&width=600&lines=Hi+there！+Welcome+to+my+profile!+✦;♪+Developer+%7C+Creator+%7C+Dreamer+♪;Coding+to+feed+curiosity;Let%27s+build+something+elegant!;ボカロが大好き+♫)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&weight=400&size=21&duration=2800&pause=1000&color=39C5BB&center=true&vCenter=true&width=600&lines=Hi+there!+Welcome+to+my+profile!+✦;♪+Developer+%7C+Creator+%7C+Dreamer+♪;Coding+to+feed+curiosity;Let%27s+build+something+elegant!;ボカロが大好き+♫)](https://git.io/typing-svg)
 
 
 <img src="./assets/miku-night.svg" width="100%" alt="Miku × Night Sky Banner"/>
