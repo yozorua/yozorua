@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&weight=400&size=21&duration=2800&pause=1000&color=39C5BB&center=true&vCenter=true&width=600&lines=Hi+there!+Welcome+to+my+profile!+✦;♪+Developer+%7C+Creator+%7C+Dreamer+♪;Coding+to+feed+curiosity;Let%27s+build+something+elegant!;ボカロが大好き+♫)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&weight=400&size=21&duration=2800&pause=1000&color=39C5BB&center=true&vCenter=true&width=600&lines=✦+Hi+there!+Welcome+to+my+profile!+✦;♪+ボカロが大好き+♫)](https://git.io/typing-svg)
 
 
 <img src="./assets/miku-night.svg" width="100%" alt="Miku × Night Sky Banner"/>
@@ -54,16 +54,6 @@
 <br>
 
 <div align="center">
-
-<a href="https://github.com/yozorua">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yozorua&show_icons=true&count_private=true&hide_border=false&bg_color=020818&title_color=39C5BB&text_color=9FEAF9&icon_color=86CECB&border_color=39C5BB&border_radius=15&include_all_commits=true" alt="GitHub Stats"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/yozorua">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozorua&layout=compact&hide_border=false&bg_color=020818&title_color=39C5BB&text_color=9FEAF9&border_color=39C5BB&border_radius=15&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=yozorua&theme=tokyonight&background=020818&border=39C5BB&stroke=39C5BB&ring=39C5BB&fire=FF7F7F&currStreakNum=9FEAF9&sideNums=9FEAF9&currStreakLabel=39C5BB&sideLabels=86CECB&dates=86CECB" alt="GitHub Streak"/>
 
